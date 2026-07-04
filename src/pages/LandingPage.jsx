@@ -209,6 +209,12 @@ function Navbar() {
               <ArrowRight />
             </Link>
           </Button>
+          <Button size="sm" asChild>
+            <Link to="/dahsboard">
+              dashboard
+              <ArrowRight />
+            </Link>
+          </Button>
         </div>
       </div>
     </header>
