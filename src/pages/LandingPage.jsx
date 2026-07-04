@@ -210,7 +210,7 @@ function Navbar() {
             </Link>
           </Button>
           <Button size="sm" asChild>
-            <Link to="/dahsboard">
+            <Link to="/dashboard">
               dashboard
               <ArrowRight />
             </Link>
